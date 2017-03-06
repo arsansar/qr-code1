@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QR Code</string>
+    <string name="title_activity_scanner">Scanner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="etUsername">*Username</string>
+    <string name="etpassword">*Password</string>
+    <string name="etFirstName">*First Name</string>
+    <string name="etLastName">*Last Name</string>
+    <string name="etFatherName">*Father\'s Name</string>
+    <string name="etEmailid">*Email Id</string>
+    <string name="etMobile">*Mobile No.</string>
+    <string name="etAddress">Address</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="tvTitle">Register User</string>
+    <string name="tvTitle1">Update User Info</string>
+    <string name="srtCancel">Cancel</string>
+    <string name="btnReset">Reset</string>
+
+</resources>
